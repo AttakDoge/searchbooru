@@ -1,0 +1,2 @@
+[build-system]
+requires = ["typer >= 0.21.1"]
